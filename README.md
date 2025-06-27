@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **d3cypherd/d3cypherd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/93f35df6-b04e-4fba-9860-baf603b9906d" alt="Example GIF">
+</div>
